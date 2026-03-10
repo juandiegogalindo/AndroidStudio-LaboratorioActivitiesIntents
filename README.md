@@ -104,6 +104,3 @@ git clone https://github.com/juandiegogalindo/AndroidStudio-LaboratorioActivitie
 3. Imagen del mensaje de respuesta:
 
 <img width="370" height="203" alt="image" src="https://github.com/user-attachments/assets/72504fe0-3bf6-4f45-acb2-38513e458230" />
-
-
----
