@@ -107,5 +107,3 @@ git clone https://github.com/juandiegogalindo/AndroidStudio-LaboratorioActivitie
 
 
 ---
-
-## 10. Autor
