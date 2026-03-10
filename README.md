@@ -113,4 +113,3 @@ git clone https://github.com/juandiegogalindo/AndroidStudio-LaboratorioActivitie
 Juan Diego Galindo  
 Estudiante de Ingeniería de Sistemas  
 
----
